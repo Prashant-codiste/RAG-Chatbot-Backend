@@ -48,7 +48,6 @@ Thumbs.db
 logs/
 
 # Vector databases
-lancedb_data/
 
 # Model cache
 models_cache/
@@ -62,3 +61,5 @@ models_cache/
 *.temp
 temp/
 
+lancedb_data/cn_dump_embeddings.lance/*
+API_Documentation_GetCNDump8006.pdf
